@@ -1,1 +1,2 @@
-
+#1stPRompt: Generate a Flutter login screen (email + password) using supabase_flutter auth
+#Ok we have the code, help me with setting up all this, where to put this code in Replit, what while to create .. 
